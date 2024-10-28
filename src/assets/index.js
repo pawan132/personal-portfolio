@@ -1,4 +1,5 @@
 import logo from "./images/logo.png";
+import logo3 from "./images/logo3.jpeg";
 import bannerImg from "./images/bannerImg.png";
 import projectOne from "./images/projects/projectOne.jpg";
 import projectTwo from "./images/projects/projectTwo.jpg";
@@ -30,6 +31,7 @@ import portfolio from './images/projects/portfolio.png'
 
 export {
     logo,
+    logo3,
     man,
     ai,
     IMS,
